@@ -61,3 +61,7 @@ header h1 {
   color: black;
   font-weight: bold;
 }
+button {
+  float: right;
+  margin: 5px;
+}
